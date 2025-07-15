@@ -36,5 +36,5 @@ The work also provided hands-on experience in building a complete deep learning 
 Overall, this task not only strengthened understanding of deep learning concepts but also offered practical experience with essential machine learning tools and libraries in Python. The framework developed in this project can be extended or modified for more complex datasets or real-world applications involving image recognition and classification.
 
 # Output
-
+https://github.com/user-attachments/assets/858d1deb-0a64-4e85-b1cc-4846b0b4739a
 
